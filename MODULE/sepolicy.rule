@@ -1,0 +1,3 @@
+# Allow system_server to set vendor_displayfeature_prop
+allow system_server vendor_displayfeature_prop property_service set;
+allow system_server vendor_displayfeature_prop property_service read;
