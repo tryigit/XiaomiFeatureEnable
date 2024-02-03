@@ -4,4 +4,4 @@ Telegram:
 t.me/chinacloudgroup
 
 Github:
-github.com/tryigit/PlayIntegrityFix
+https://github.com/tryigit/XiaomiFeatureEnable
