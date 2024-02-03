@@ -4,7 +4,7 @@ resetprop debug.config.media.video.frc.support true
 resetprop debug.config.media.video.aie.support true
 resetprop debug.config.media.video.ais.support true
 resetprop ro.vendor.media.video.frc.support true
-resetprop ro.vendor.display.dobly_dpu.enable true
+# ro.vendor.display.dobly_dpu.enable wait
 resetprop persist.vendor.extreme.mode true
 resetprop ro.vendor.audio.zoom.support true
 resetprop ro.vendor.audio.zoom.type 2
