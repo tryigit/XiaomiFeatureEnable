@@ -4,7 +4,6 @@ debug.config.media.video.frc.support=true
 debug.config.media.video.aie.support=true
 debug.config.media.video.ais.support=true
 ro.vendor.media.video.frc.support=true
-ro.vendor.display.dobly_dpu.enable=true
 persist.vendor.extreme.mode=true
 ro.vendor.audio.zoom.support=true
 ro.vendor.audio.zoom.type=2
