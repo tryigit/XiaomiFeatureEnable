@@ -1,10 +1,17 @@
 # @tryigitx Please Do Not Remove Credit.
 ro.vendor.gpp.frc.support=true
-# ro.vendor.display.iris_x7.support
 debug.config.media.video.frc.support=true
 debug.config.media.video.aie.support=true
 debug.config.media.video.ais.support=true
 ro.vendor.media.video.frc.support=true
+ro.vendor.display.dobly_dpu.enable=true
+persist.vendor.extreme.mode=true
+ro.vendor.audio.zoom.support=true
+ro.vendor.audio.zoom.type=2
+ro.vendor.audio.spk.clean=true
+persist.sys.privacy_camera=true
+persist.vendor.camera.facetracker.support=true
+debug.mi.filter.lut.open=true
 
 # @ ? Use Github and add features you find yourself
 # prop.prop=true
