@@ -1,6 +1,6 @@
-# @tryigitx Please do not remove fredit.
+# @tryigitx Please Do Not Remove Credit.
 ro.vendor.gpp.frc.support=true
-ro.vendor.display.iris_x7.support=true
+# ro.vendor.display.iris_x7.support
 debug.config.media.video.frc.support=true
 debug.config.media.video.aie.support=true
 debug.config.media.video.ais.support=true
