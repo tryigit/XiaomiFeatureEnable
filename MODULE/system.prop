@@ -1,0 +1,10 @@
+# @tryigitx Please do not remove fredit.
+ro.vendor.gpp.frc.support=true
+ro.vendor.display.iris_x7.support=true
+debug.config.media.video.frc.support=true
+debug.config.media.video.aie.support=true
+debug.config.media.video.ais.support=true
+ro.vendor.media.video.frc.support=true
+
+# @ ? Use Github and add features you find yourself
+# prop.prop=true
