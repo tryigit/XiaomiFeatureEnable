@@ -7,6 +7,6 @@ Enable features that have vendor support but Xiaomi has not enabled for some rea
 Features that require hardware support such as Game Vision, Super Resolution and Memc.
 
 > [!TIP]
-> Check post-fs-data.sh on Github to add feature key 🥰
+> Check system.prop on Github to add feature key 🥰
 # Telegram
 https://t.me/chinacloudgroup
