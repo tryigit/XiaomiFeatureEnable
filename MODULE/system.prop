@@ -11,6 +11,7 @@ ro.vendor.audio.spk.clean=true
 persist.sys.privacy_camera=true
 persist.vendor.camera.facetracker.support=true
 debug.mi.filter.lut.open=true
+vendor.somc.qti_lea.support=true
 
 # @ ? Use Github and add features you find yourself
 # prop.prop=true
